@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0898-transpose-matrix) |
 | [1046-max-consecutive-ones-iii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1046-max-consecutive-ones-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0118-pascals-triangle) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1046-max-consecutive-ones-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
