@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0075-sort-colors) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
