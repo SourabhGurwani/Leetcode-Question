@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0118-pascals-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0240-search-a-2d-matrix-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0078-subsets) |
 | [0891-score-after-flipping-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0891-score-after-flipping-matrix) |
 ## Binary Search
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0908-middle-of-the-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
