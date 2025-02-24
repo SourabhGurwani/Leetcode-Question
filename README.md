@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0054-spiral-matrix) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0042-trapping-rain-water) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0011-container-with-most-water) |
 | [0891-score-after-flipping-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0891-score-after-flipping-matrix) |
 ## Bit Manipulation
 |  |
