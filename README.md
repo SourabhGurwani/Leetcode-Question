@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0118-pascals-triangle) |
+| [0162-find-peak-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0891-score-after-flipping-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0898-transpose-matrix) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
