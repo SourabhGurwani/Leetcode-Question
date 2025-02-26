@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0891-score-after-flipping-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0898-transpose-matrix) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0242-valid-anagram) |
 ## String
@@ -152,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0023-merge-k-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
