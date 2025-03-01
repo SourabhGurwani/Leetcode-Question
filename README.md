@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0898-transpose-matrix) |
 | [1046-max-consecutive-ones-iii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2551-apply-operations-to-an-array](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0908-middle-of-the-linked-list) |
+| [2551-apply-operations-to-an-array](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0898-transpose-matrix) |
+| [2551-apply-operations-to-an-array](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2551-apply-operations-to-an-array) |
 ## Greedy
 |  |
 | ------- |
