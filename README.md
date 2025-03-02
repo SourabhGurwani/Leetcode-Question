@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2551-apply-operations-to-an-array](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0908-middle-of-the-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0242-valid-anagram) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
