@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0242-valid-anagram) |
 ## Trie
