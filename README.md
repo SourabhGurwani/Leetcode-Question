@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0240-search-a-2d-matrix-ii) |
+| [0496-next-greater-element-i](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0496-next-greater-element-i) |
 | [0891-score-after-flipping-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0898-transpose-matrix) |
 | [1046-max-consecutive-ones-iii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1046-max-consecutive-ones-iii) |
@@ -69,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0496-next-greater-element-i) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
