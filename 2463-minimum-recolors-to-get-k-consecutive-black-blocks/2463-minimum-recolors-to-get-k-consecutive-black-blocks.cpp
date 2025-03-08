@@ -11,15 +11,10 @@ public:
         int j=k;
         int mini=c;
         while(j<n){
-            
             if(blocks[i-1]=='W'){
-                if(c>1)c=c-1;  
+                c=c-1;  
             }
-            c=0;
-            for(int a=i;a<=j;a++){
-                if(blocks[a]=='W')c++;
-            }
-            
+            if(blocks[j]=='W')c++;
             
             mini=min(c,mini);
             i++;
