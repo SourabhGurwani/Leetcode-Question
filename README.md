@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0242-valid-anagram) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Trie
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
 | ------- |
