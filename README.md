@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0257-binary-tree-paths) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Trie
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0257-binary-tree-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -220,18 +222,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
