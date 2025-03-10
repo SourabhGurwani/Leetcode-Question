@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0496-next-greater-element-i) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0226-invert-binary-tree) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0226-invert-binary-tree) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0226-invert-binary-tree) |
