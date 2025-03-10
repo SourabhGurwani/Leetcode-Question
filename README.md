@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0503-next-greater-element-ii) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0543-diameter-of-binary-tree) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0543-diameter-of-binary-tree) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0543-diameter-of-binary-tree) |
