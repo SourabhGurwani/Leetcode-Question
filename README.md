@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3483-alternating-groups-ii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/3483-alternating-groups-ii) |
 ## Two Pointers
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1046-max-consecutive-ones-iii) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0169-majority-element) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Design
 |  |
 | ------- |
