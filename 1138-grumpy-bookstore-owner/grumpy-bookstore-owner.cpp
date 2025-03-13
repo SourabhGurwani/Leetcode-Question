@@ -19,17 +19,16 @@ public:
         }
         int max=extraSum;
        
-        for(int i=1;i<=n-k;i++){
-            int fin=0;
-            for(int j=i;j<k+i;j++){
-                if(grumpy[j]==1){
-                    fin+=customers[j];
-                }
-               
+        for(int i=k;i<n;i++){
+            if(grumpy[i]==1){
+                extraSum+=customers[i];
             }
-             if (fin>max){
-                    max=fin;
-                }
+            if(grumpy[i-k]==1){
+                extraSum-=customers[i-k];
+            }
+            if(max<extraSum){
+                max=extraSum;
+            }
           
        
 
