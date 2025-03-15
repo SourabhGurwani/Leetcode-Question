@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0503-next-greater-element-ii) |
+| [0605-can-place-flowers](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0739-daily-temperatures) |
 | [0891-score-after-flipping-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0898-transpose-matrix) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0605-can-place-flowers) |
 | [0891-score-after-flipping-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0891-score-after-flipping-matrix) |
 ## Bit Manipulation
 |  |
