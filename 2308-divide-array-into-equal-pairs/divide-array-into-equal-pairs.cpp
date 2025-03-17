@@ -3,12 +3,12 @@ public:
     bool divideArray(vector<int>& nums) {
         int n=nums.size();
         sort(nums.begin(),nums.end());
-        // bool result=true;
+        bool result=true;
         for(int i=0;i<nums.size();i=i+2){
             if(nums[i]!=nums[i+1]){
-                return false;
+                result= false;
             }
         }
-        return true;
+        return result;
     }
 };
