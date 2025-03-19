@@ -3,7 +3,7 @@ public:
     int minOperations(vector<int>& nums) {
         int count=0;
         for(int right=0;right<nums.size()-2;right++){
-            while(nums[right]==0){
+            if(nums[right]==0){
                 nums[right]=1;
                 if(nums[right+1]==1){
                     nums[right+1]=0;
