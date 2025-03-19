@@ -20,9 +20,9 @@ public:
                 count++;
             }
         }
-        sort(nums.begin(),nums.end());
-        if(nums[0]==0){
-            count=-1;
+        
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]==0) return -1;
             
         }
         return count;
