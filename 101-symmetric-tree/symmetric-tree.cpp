@@ -1,25 +1,36 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
- bool isMirror(TreeNode* t1, TreeNode* t2) {
-        if (!t1 && !t2) return true;   // Both nodes are NULL → Symmetric
-        if (!t1 || !t2) return false;  // One node is NULL but the other isn't → Not symmetric
-        return (t1->val == t2->val)    // Check values
-            && isMirror(t1->left, t2->right)  // Left of `t1` vs. Right of `t2`
-            && isMirror(t1->right, t2->left); // Right of `t1` vs. Left of `t2`
+    void rightf(TreeNode* root, vector<int>& right) {
+        if (root == nullptr) {
+            right.push_back(-101); // Unique marker for NULL
+            return;
+        }
+        right.push_back(root->val);
+        rightf(root->right, right);
+        rightf(root->left, right);
     }
+
+    void leftf(TreeNode* root, vector<int>& left) {
+        if (root == nullptr) {
+            left.push_back(-101); // Unique marker for NULL
+            return;
+        }
+        left.push_back(root->val);
+        leftf(root->left, left);
+        leftf(root->right, left);
+    }
+
     bool isSymmetric(TreeNode* root) {
-        return isMirror(root->left,root->right);
-        
+        if (root == nullptr) return true;
+        vector<int> right, left;
+        rightf(root->right, right);
+        leftf(root->left, left);
+
+        if (right.size() != left.size()) return false;
+
+        for (int i = 0; i < right.size(); i++) {
+            if (right[i] != left[i]) return false;
+        }
+        return true;
     }
 };
