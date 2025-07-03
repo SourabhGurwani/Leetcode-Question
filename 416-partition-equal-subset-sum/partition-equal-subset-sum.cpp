@@ -1,22 +1,20 @@
 class Solution {
 public:
     bool canPartition(vector<int>& nums) {
-        // bool canPartition(vector<int>& nums) {
-    int total = accumulate(nums.begin(), nums.end(), 0);
-    if (total % 2 != 0) return false;
+        int total = accumulate(nums.begin(), nums.end(), 0);
+        if (total % 2 != 0) return false;
+        total /= 2;
 
-    int target = total / 2;
-    vector<bool> dp(target + 1, false);
-    dp[0] = true;
-
-    for (int num : nums) {
-        for (int i = target; i >= num; i--) {
-            dp[i] = dp[i] || dp[i - num];
+        unordered_set<int> sum = {0};
+        for (int num : nums) {
+            vector<int> curr(sum.begin(), sum.end());
+            for (int s : curr) {
+                int newsum = s + num;
+                if (newsum == total) return true;
+                sum.insert(newsum);
+            }
         }
-    }
 
-    return dp[target];
-// }
-
+        return sum.count(total);
     }
 };
