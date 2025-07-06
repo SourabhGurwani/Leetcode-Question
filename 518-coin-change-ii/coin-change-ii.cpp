@@ -1,18 +1,22 @@
- class Solution {
- public: 
-     int func(int ind,int target,vector<int>&arr,vector<vector<int>>&dp){
+class Solution {
+public:
+    int change(int amount, vector<int>& coins) {
+        // dp[i] = number of ways to make amount 'i'
+        // vector<int> dp(amount + 1, 0);
+        bool allEven = all_of(coins.begin(), coins.end(), [](int c) {
+            return c % 2 == 0;
+        });
+        if (allEven && amount % 2 == 1) return 0;
+        vector<int> dp(amount + 1, 0);
 
-         if(ind==0){
-             return (target%arr[0]==0);
-         }
-         if(dp[ind][target]!=-1) return dp[ind][target];
-         int nottake=func(ind-1,target,arr,dp);
-         int take=(arr[ind]<=target)?func(ind,target-arr[ind],arr,dp):0;
-         return dp[ind][target]=take+nottake;
-     }
-     int change(int target, vector<int>& nums) {
-         int n=nums.size();
-         vector<vector<int>>dp(n,vector<int>(target+1,-1));
-         return func(n-1,target,nums,dp);
-     }
- };
+        dp[0] = 1;  // base case: 1 way to make amount 0 (use no coins)
+
+        for (int coin : coins) {
+            for (int i = coin; i <= amount; ++i) {
+                dp[i] += dp[i - coin];
+            }
+        }
+
+        return (int)dp[amount];
+    }
+};
