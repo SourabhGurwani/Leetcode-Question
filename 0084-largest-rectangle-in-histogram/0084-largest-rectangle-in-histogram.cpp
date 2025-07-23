@@ -14,9 +14,9 @@ public:
 
         vector<int> psi(n, -1); // Previous Smaller Element index
         stack<int> st1;
-        st1.push(0);
+        
 
-        for (int i = 1; i < n; i++) {
+        for (int i = 0; i < n; i++) {
             while (!st1.empty() && arr[st1.top()] >= arr[i]) st1.pop();
             if (!st1.empty()) psi[i] = st1.top();
             st1.push(i);
