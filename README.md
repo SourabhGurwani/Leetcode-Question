@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0518-coin-change-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Stack
 |  |
 | ------- |
