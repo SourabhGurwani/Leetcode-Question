@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0326-power-of-three) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0326-power-of-three) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2610-closest-prime-numbers-in-range) |
