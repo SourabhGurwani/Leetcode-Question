@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0257-binary-tree-paths) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Trie
 |  |
