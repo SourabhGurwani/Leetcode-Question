@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0605-can-place-flowers) |
 | [0891-score-after-flipping-matrix](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0891-score-after-flipping-matrix) |
+| [1448-maximum-69-number](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0342-power-of-four) |
+| [1448-maximum-69-number](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2610-closest-prime-numbers-in-range) |
