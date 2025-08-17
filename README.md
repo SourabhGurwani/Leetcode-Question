@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0518-coin-change-ii) |
+| [0867-new-21-game](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0867-new-21-game](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0867-new-21-game) |
 | [1046-max-consecutive-ones-iii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0342-power-of-four) |
+| [0867-new-21-game](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -287,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0322-coin-change) |
 | [1036-rotting-oranges](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1036-rotting-oranges) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
