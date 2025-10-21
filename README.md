@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0322-coin-change) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0342-power-of-four) |
 | [0867-new-21-game](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0867-new-21-game) |
@@ -300,5 +302,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
