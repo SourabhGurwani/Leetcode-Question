@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0518-coin-change-ii) |
 | [0867-new-21-game](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0342-power-of-four) |
 | [0867-new-21-game](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1236-n-th-tribonacci-number) |
 | [1448-maximum-69-number](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -304,4 +306,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
