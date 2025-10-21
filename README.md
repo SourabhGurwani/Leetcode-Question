@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0518-coin-change-ii) |
 | [0867-new-21-game](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0867-new-21-game) |
+| [1013-fibonacci-number](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0342-power-of-four) |
 | [0867-new-21-game](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0867-new-21-game) |
+| [1013-fibonacci-number](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -294,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/0867-new-21-game) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SourabhGurwani/Leetcode-Question/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
